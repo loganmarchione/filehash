@@ -7,8 +7,7 @@ Usage
 Example  
 `.\filehash.ps1 C:\Path\to\file.zip 1234567890123456789012345678901234567890 SHA1`
 
-Output if matching  
-```
+Output if matching  ```
 InputObject                                                 SideIndicator
 -----------                                                 -------------
 FB9C9AB7DA8E7C9A7078D13E6390F98FBFF26287                    ==
@@ -19,8 +18,7 @@ Provided:    FB9C9AB7DA8E7C9A7078D13E6390F98FBFF26287
 Calculated:  FB9C9AB7DA8E7C9A7078D13E6390F98FBFF26287
 ```
 
-Output if not matching  
-```
+Output if not matching  ```
 InputObject                                                 SideIndicator
 -----------                                                 -------------
 FB9C9AB7DA8E7C9A7078D13E6390F98FBFF26287                    =>

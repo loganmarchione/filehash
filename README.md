@@ -1,5 +1,6 @@
 # filehash
-PowerShell script (first one ever!) to check a calculated hash (including MD5 or SHA1) against a known hash. Tested in PowerShell 4.
+PowerShell script (first one ever!) to check a calculated hash (including MD5 or SHA1) against a known hash.
+Tested in PowerShell 4.
 
 ##Usage  
 `.\filehash.ps1 Path_to_file provided_hash hash_algorithm`

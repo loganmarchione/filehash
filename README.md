@@ -2,7 +2,7 @@
 PowerShell script (first one ever!) to check a calculated hash (including MD5 or SHA1) against a known hash.  
 
 ##Requirements
-Should work with any Windows version with PowerShell.
+Should work with any Windows version with PowerShell.  
 Tested on Windows 7 with PowerShell 4.
 
 ##Usage  
